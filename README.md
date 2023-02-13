@@ -16,7 +16,7 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Glaybson👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
+* 👨‍💻 I'm Glaybson👋, a college student, I'm currently pursuing a Computer Science Degree in the Ceará - Brazil. <br><br><br>
 
 * 🌳 I’m currently learning TypeScript, React and NextJS! <br><br><br>
 
@@ -26,7 +26,7 @@
 
 * ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
 
-* :octocat: Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+* :octocat: Hobbies: Reading, Anime, Manga, Web Novel, and Musics. <br><br>
 
 <h2></h2>
 
@@ -59,11 +59,11 @@
 <!--   <img src="https://github-readme-stats-glaybsonmelo.vercel.app/api/top-langs/?username=glaybsonmelo&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br> -->
 
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,express,vue,cpp,py,mysql,vscode" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,express,mongodb,vue,cpp,py,mysql,vscode" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=redux,mongodb,django,nextjs,firebase" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=redux,django,nextjs,firebase" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=bash,bootstrap,bots,cs,css,js,docker,kubernetes,pytorch" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=bash,bootstrap,bots,cs,html,css,js,docker,kubernetes,pytorch" alt="skills planning to learn logos">
 </div></br>
 
 <h2></h2>
@@ -86,13 +86,6 @@
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
-<!-- <div align="center">
-  <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/glaybsonmelo/Authentic-Pinoy-Recipes-App" target="_blank">
-    <img src="https://github-readme-stats-glaybsonmelo.vercel.app/api/pin/?username=glaybsonmelo&theme=radical&repo=authentic-pinoy-recipes-app" height="150px" alt="Authentic Pinoy Recipes"/>
-  </a>
-</div> -->
 
 <!-- <img src="https://github.com/glaybsonmelo/glaybsonmelo/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b264d&height=120&section=footer"/>
