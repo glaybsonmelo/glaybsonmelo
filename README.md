@@ -16,17 +16,17 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Glaybson👋, a college student, I'm currently pursuing a Computer Science Degree in the Ceará - Brazil. <br><br><br>
+* 👨‍💻 I'm Glaybson👋, a college student, I'm currently pursuing a Computer Science Degree in the Ceará - Brazil. <br>
 
-* 🌳 I’m currently learning TypeScript, React and NextJS! <br><br><br>
+* 🌳 I’m currently learning TypeScript, React and NextJS! <br>
 
-* 🐾 I’m looking to network and make friends here! <br><br><br>
+* 🐾 I’m looking to network and make friends here! <br>
 
-* 🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
+* 🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br>
 
-* ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
+* ☕ Interest: Science, Math, Coffee, and Coding. <br>
 
-* :octocat: Hobbies: Reading, Anime, Manga, Web Novel, and Musics. <br><br>
+* :octocat: Hobbies: Reading, Anime, Manga, Web Novel, and Musics. <br>
 
 <h2></h2>
 
