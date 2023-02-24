@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b264d&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4abef0&height=120&section=header"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Glaybson+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Glaybson and Welcome to my Profile! animated typed out" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
@@ -73,18 +73,20 @@
   
 <div align="center">
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=glaybsonmelo&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>-->
-  <img src="https://streak-stats.demolab.com?user=glaybsonmelo&theme=radical" height="150" alt="streaks graph" />
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaybsonmelo&theme=radical&layout=compact)
-</div> <br>
+</div>
+  <table><tr><td valign="top" width="50%">
 
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaybsonmelo&theme=midnight-purple&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+</div>
 </br>
-
-<h2></h2>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <!-- <img src="https://github.com/glaybsonmelo/glaybsonmelo/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b264d&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4abef0&height=120&section=footer"/>
