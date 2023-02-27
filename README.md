@@ -28,9 +28,9 @@
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-* 👨‍💻 I'm Glaybson👋, a college student, I'm currently pursuing a Computer Science Degree in the Ceará - Brazil. <br>
+* 👨‍💻 I'm Glaybson👋, a college student, I'm currently pursuing a Computer Science Degree in Brazil. <br>
 
-* 🌳 I’m currently learning TypeScript, React and NextJS! <br>
+* 🌳 I’m currently learning TypeScript and GraphQL! <br>
 
 * 🐾 I’m looking to network and make friends here! <br>
 
@@ -65,17 +65,18 @@
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-  
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   
 <!--   <img src="https://github-readme-stats-glaybsonmelo.vercel.app/api/top-langs/?username=glaybsonmelo&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br> -->
 
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,express,mongodb,vue,cpp,py,mysql,vscode" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,vue,nodejs,express,git,github,mysql,mongodb,vscode" alt="skills logos" /> <br>
+  
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=redux,django,nextjs,firebase" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=ts,graphql" alt="skills actively learning logos"> <br> 
+  
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=bash,bootstrap,bots,cs,html,css,js,docker,kubernetes,pytorch" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=bash,bootstrap,bots,cs,html,css,docker,kubernetes,pytorch" alt="skills planning to learn logos">
 </div></br>
 
 <h2></h2>
@@ -85,7 +86,6 @@
   
 <div align="center">
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
-</div>
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=glaybsonmelo&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -95,6 +95,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaybsonmelo&theme=midnight-purple&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+</div>
+
 </div>
 </br>
 
