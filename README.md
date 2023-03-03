@@ -65,7 +65,7 @@
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   
 <!--   <img src="https://github-readme-stats-glaybsonmelo.vercel.app/api/top-langs/?username=glaybsonmelo&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> <br> -->
 
