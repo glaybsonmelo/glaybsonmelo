@@ -1,0 +1,74 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@glaybsonmelo 
+ansible
+/
+ansible-examples
+Public
+Fork your own copy of ansible/ansible-examples
+Code
+Issues
+48
+Pull requests
+41
+Actions
+Projects
+Security
+Insights
+Beta Try the new code view
+ansible-examples/lamp_simple/roles/common/tasks/main.yml
+
+Joshua Smith Fix ansible-lint reported errors and update syntax in lamp_simple.
+Latest commit 0d102e5 on Oct 3, 2018
+ History
+ 2 contributors
+@tgerla@bbaassssiiee
+27 lines (23 sloc)  478 Bytes
+
+---
+# This playbook contains common plays that will be run on all nodes.
+
+- name: Install ntp
+  yum:
+    name: ntp
+    state: present
+  tags: ntp
+
+- name: Configure ntp file
+  template:
+    src: ntp.conf.j2
+    dest: /etc/ntp.conf
+  tags: ntp
+  notify: restart ntp
+
+- name: Start the ntp service
+  service:
+    name: ntpd
+    state: started
+    enabled: yes
+  tags: ntp
+
+- name: test to see if selinux is running
+  command: getenforce
+  register: sestatus
+  changed_when: false
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
