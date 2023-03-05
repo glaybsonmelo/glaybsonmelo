@@ -88,11 +88,11 @@
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=glaybsonmelo&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=glaybsonmelo&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaybsonmelo&theme=midnight-purple&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<!-- &theme=midnight-purple -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaybsonmelo&theme=chartreuse-dark&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 </div>
