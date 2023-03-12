@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=ts,graphql" alt="skills actively learning logos"> <br> 
   
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=bash,bootstrap,bots,cs,html,css,docker,kubernetes,pytorch" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=bash,bootstrap,bots,html,css,docker,kubernetes,pytorch" alt="skills planning to learn logos">
 </div></br>
 
 <h2></h2>
