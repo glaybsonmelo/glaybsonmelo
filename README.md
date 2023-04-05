@@ -66,9 +66,6 @@
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=cpp,py,js,vue,nodejs,express,git,github,mysql,mongodb,vscode" alt="skills logos" /> <br>
   
-   <!-- <h3> <strong> Actively Learning </strong></h3> -->
-  <!-- <img src="https://skillicons.dev/icons?i=ts,graphql" alt="skills actively learning logos"> <br> -->
-  
   <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=bash,bootstrap,bots,html,css,docker,kubernetes,pytorch" alt="skills planning to learn logos">
 </div></br>
