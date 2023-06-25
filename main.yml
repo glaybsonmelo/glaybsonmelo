@@ -1,27 +1,18 @@
----
-# This playbook contains common plays that will be run on all nodes.
+name: Meu Workflow
 
-- name: Install ntp
-  yum:
-    name: ntp
-    state: present
-  tags: ntp
+on:
+  push:
+    branches:
+      - main
 
-- name: Configure ntp file
-  template:
-    src: ntp.conf.j2
-    dest: /etc/ntp.conf
-  tags: ntp
-  notify: restart ntp
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-- name: Start the ntp service
-  service:
-    name: ntpd
-    state: started
-    enabled: yes
-  tags: ntp
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
 
-- name: test to see if selinux is running
-  command: getenforce
-  register: sestatus
-  changed_when: false
+      - name: Executar comandos
+        run: |
+          echo "Hello, World!"
