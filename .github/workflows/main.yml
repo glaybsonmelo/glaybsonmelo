@@ -6,13 +6,9 @@ on:
       - main
 
 jobs:
-  build:
+  job1:
     runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v2
-
-      - name: Executar comandos
-        run: |
-          echo "Hello, World!"
+    defaults:
+      run:
+        shell: bash
+        working-directory: scripts
