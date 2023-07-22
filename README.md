@@ -68,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,vue,nodejs,express,docker,git,github,mysql,mongodb,vscode" alt="skills logos" /> <br>
   
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=bash,bootstrap,bots,html,css,kubernetes" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=bootstrap,bots,html,css,kubernetes,java" alt="skills planning to learn logos">
 </div></br>
 
 <h2></h2>
