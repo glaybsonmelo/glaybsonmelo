@@ -65,10 +65,10 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,vue,nodejs,express,docker,git,github,mysql,mongodb,vscode" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,nodejs,express,docker,git,github,mysql,mongodb,vscode" alt="skills logos" /> <br>
   
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=bootstrap,bots,html,css,kubernetes,java" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=bots,html,css,kubernetes,java" alt="skills planning to learn logos">
 </div></br>
 
 <h2></h2>
